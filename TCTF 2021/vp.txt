@@ -1,0 +1,3 @@
+Let's enjoy a traditional warmup.
+
+nc 111.186.59.32 20217

@@ -1,0 +1,11 @@
+按照从上到下的顺序发题
+easyXor: TSCTF-J{WeLc0Me_2_TSCTF-J_X0r_ls_S0_EaSY!!!}
+tic-tac-toe: TSCTF-J{R3veRsInG_c#_ls_So0o0o0_Ez}
+maze: TSCTF-J{f62f3965313148ebccaec0bcdb132957}
+debugMe: TSCTF-J{D3bug_ls_P0w3rfu1!!!_qpflaklwen}
+maze_revenge: TSCTF-J{5ddffb589b72f5e9b0478d433f5b49fa}
+UpxRand: TSCTF-J{jU3t_pAt2H_cAN_Get_FLAG_!!!!!!_ea1qf1sdghjy}
+minecraft: TSCTF-J{Ez_Pyth0h_FUNny_mc_1snt_iT}
+crackme: TSCTF-J{cRaCK_sMC_ls_S0_eA2Y_AnD_i_B3iLeVE_y0u_CAN_ALLKILL}
+
+Reversi: TSCTF-J{Y0u_aR3_s0_smart!!!_r3VerSi_ls_fuN}

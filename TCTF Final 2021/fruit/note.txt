@@ -1,0 +1,2 @@
+syntax (each one maybe have more than one meaning)
+2 3 8 9 A C E H N P R Z _ a e f h r s u y z } / 0 1 4 5 6 7 = F G H J K L M N O P Q R S T U V W d g i j k l m n o p q r s t v w x y z

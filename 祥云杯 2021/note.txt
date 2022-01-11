@@ -1,0 +1,1 @@
+Ctf3.exe 是一个模拟的勒索软件，该勒索软件运行后会加密目录: C:\XX_CTF_XX\ 下 的 .bmp 文档。加密后的文档后缀名变为 .ctf_crypter。文件 flag.bmp.ctf_crypter 是该题 的 flag 文件，被该勒索软件给加密。请分析该勒索软件，找出程序中的缺陷解密出 flag 文件。请注意，本题flag格式为 ctf{}
